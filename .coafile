@@ -1,0 +1,4 @@
+[Default]
+bears = SpaceConsistencyBear
+files = *.md
+use_spaces = true
